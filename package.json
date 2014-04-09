@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "ejs": "*",
+    "googleapis": "~0.7.0",
+    "passport": "~0.2.0",
+    "passport-google-oauth": "~0.1.5",
+    "express-partials": "~0.2.0"
+  }
+}
